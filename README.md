@@ -3,5 +3,5 @@ This library is used to get data from the air quality sensor ZPHS01B developped 
 When using ESP32 with PlatformIO, you need to download the EspSoftwareSerial library.
 The datasheet of the sensor can be found [here](https://www.winsen-sensor.com/d/files/zphs01b-english-version1_1-20200713.pdf).
 ![ZPHS01B Multi-in-one Air Quality Monitoring Sensor Module](image1.PNG)
-![ZPHS01B Multi-in-one Air Quality Monitoring Sensor Module](image2.JPG)
+![ZPHS01B Multi-in-one Air Quality Monitoring Sensor Module](image2.jpg)
 ![Output terminal](image3.PNG)
